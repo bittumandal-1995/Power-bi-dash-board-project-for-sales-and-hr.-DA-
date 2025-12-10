@@ -1,4 +1,5 @@
-# Global Sales Performance Dashboard (Power BI)-
+# Global Sales Performance Dashboard (Power BI)-![power bi project 1](https://github.com/user-attachments/assets/728edb25-c66f-46d5-b408-8d0d8becb546)
+
 ****A Power BI Dashboard for Data-Driven Sales Insights:**
 📝 Project Overview
 The Global Sales Performance Dashboard is an interactive Power BI solution designed to analyze multi-year sales performance across countries, product categories, subcategories, and sales representatives.
@@ -14,6 +15,7 @@ It transforms raw sales data into meaningful and actionable insights for busines
 **🗂️ Dataset Details:**
 Data Includes:
 Sales transactions (2014–2017)
+
 Countries: Germany, Denmark, Czech Republic
 Product categories & subcategories
 Monthly & quarterly totals
